@@ -11,6 +11,5 @@ public class DallinTest{
     String name = input.next();
     String hey = "Hello, " + name+ "!";
     System.out.println(hey);
-    //test comment
   }
 }
